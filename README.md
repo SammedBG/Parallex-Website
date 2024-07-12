@@ -1,2 +1,2 @@
 # Parallex-Website
-My new practice projeect
+My new practice project
